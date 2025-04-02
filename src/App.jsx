@@ -8,6 +8,6 @@ function App() {
       <Home/>
     </main>
   );
-}
+} 
 
 export default App
